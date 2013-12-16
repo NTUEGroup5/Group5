@@ -37,7 +37,7 @@
 		<br/>
 		<br/>
 		<center>
-		<?php   //開始是php
+		<?php   
 			if($button === "新增"){ 
 				$sql = "INSERT INTO member (account, password, username, email, country, age) VALUES ('$account', '$password', '$username', '$email', '$country', '$age')"; //要insert的value值
 				$result = mysql_query($sql);
