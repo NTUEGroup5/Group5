@@ -10,22 +10,22 @@ $sql = "SELECT * FROM member where account='$id' and password='$pw'";
 $row = mysql_fetch_array(mysql_query($sql));
 ?>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>國立臺北教育大學_學習網</title>
+<title>毛線編織網</title>
 </head>
 
 <body>
 <div id="HEADER">
-	<h2>電腦科學學習網</h2>
+	<h2>毛線編織家</h2>
 </div>
 <div id="MAIN_NAV">
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li>
-		<li><a href="upload.php">檔案上傳</a></li>
-		<li><a href="message.php">留言板</a></li>
-		<li><b>歷史紀錄</b></li>
-		<li><a href="login.php">會員資料修改</a></li>
-		<li><a href="group.php">管理團隊</a></li>
-		<li><a href="manager_login.php">管理者專區</a></li>
+		<li><a href="reading.php">針織大學</a></li>
+		<li><a href="upload.php">毛茸茸分享區</a></li>
+		<li><a href="message.php">打結了怎麼辦</a></li>
+		<li><b>我的足跡</b></li>
+		<li><a href="login.php">My Secret 修改</a></li>
+		<li><a href="group.php">毛茸茸團隊</a></li>
+		<li><a href="manager_login.php">毛怪的家</a></li>
 		<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
 	</ul>
 </div>
