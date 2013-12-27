@@ -54,7 +54,7 @@
 			
       
       $sql = "SELECT * FROM message ORDER BY date DESC";	
-      $result = execute_sql("LMS", $sql, $link);
+      $result = execute_sql("group5", $sql, $link);
 
       
       $total_records = mysql_num_rows($result);
