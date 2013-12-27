@@ -12,7 +12,7 @@
   
   $sql = "INSERT INTO message(author, subject, content, date)
           VALUES('$author', '$subject', '$content', '$current_time')";
-  $result = execute_sql("Group5", $sql, $link);
+  $result = execute_sql("group5", $sql, $link);
 
   
   mysql_close($link);
