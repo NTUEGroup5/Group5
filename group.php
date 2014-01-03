@@ -2,45 +2,46 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>國立臺北教育大學_學習網</title>
+<title>毛線編織網</title
 </head>
-
 <body>
 
-
-	<h2>電腦科學學習網</h2>
+<body background="http://www.checkfun.com.tw/shop/Stores_APP/images/images_115/CAT%E6%8A%93%E6%AF%9B%E7%B7%9A%E5%9C%96.jpg">
+	
+	<h2><FONT FACE="微軟正黑體">毛線編織家</FONT></h2>
 
 <div id="MAIN_NAV" >
 
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li> 
-		<li><a href="upload.php">檔案上傳</a></li>
-		<li><a href="message.php">留言板</a></li>
-		<li><a href="record.php">歷史紀錄</a></li>
-		<li><a href="login.php">會員資料修改</a></li>
-		<li><b>管理團隊</b></li>
-		<li><a href="manager_login.php">管理者專區</a></li>
-		<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
+	<a href="reading.php"><FONT FACE="微軟正黑體">針織大學</FONT></a>
+	<a href="upload.php"><FONT FACE="微軟正黑體">毛絨絨分享區</FONT></a>
+	<a href="message.php"><FONT FACE="微軟正黑體">打結了怎麼辦</FONT></a>
+	<a href="record.php"><FONT FACE="微軟正黑體">我的足跡</FONT></a>
+	<a href="login.php"><FONT FACE="微軟正黑體">My Secret 修改</FONT></a>
+	<b><FONT FACE="微軟正黑體">毛絨絨團隊</FONT></b>
+	<a href="manager_login.php"><FONT FACE="微軟正黑體">毛怪的家</FONT></a>
+	<a href="index.php" style="color:#FF99FF"><FONT FACE="微軟正黑體">回首頁頁</FONT></a>
 	</ul>
 </div>
 <div id="CONTENT" >   
 	<p>
 		<center>
-		<h2>小組自行設計區<br/></h2>
+		<h2><FONT FACE="微軟正黑體">毛絨絨團隊</FONT><br/></h2>
 		<table>
-		<tr>
-			<td> <h4>例如列出小組團隊組員名單，專長．．．等等<br/></td>
-		</tr>
+		
+			<tr><td> <h4> <FONT FACE="Symbol"><FONT FACE="微軟正黑體">毛王：張博雅</FONT><br/></td></tr>
+			<tr><td> <h4><FONT FACE="微軟正黑體">小毛球：張瓊文</FONT><br/></td></tr>
+			<tr><td> <h4><FONT FACE="微軟正黑體">小毛球：楊曜瑄</FONT><br/></td></tr>
+			<tr><td> <h4><FONT FACE="微軟正黑體">小毛球：高詩翔</FONT><br/></td></tr>
+			<tr><td> <h4><FONT FACE="微軟正黑體">小毛球：陳明欣</FONT><br/></td></tr>
+			<tr><td> <h4><FONT FACE="微軟正黑體">小毛球：粘齊讌</FONT><br/></td></tr>
+			
+		
 		</table>
 		<br/><br/><br/><br/><br/><br/></h4>
 		</center>
 	</p>
 </div>
-<div id="FOOTER">	
-	<p>
-		<br/><br/><br/><br/><br/><br/>
-		<h2><center><br/>Author by <i>Yi-Chan Kao</i> & <i>Gung-Si Chen</i> </center></h2>
-	</p>
-</div>
+
 </body>
 </html>
