@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>毛線編織網</title>
+<title>毛線編織網</title>  //欄位內容注意文字提醒
     <script type="text/javascript">
       function check_data()
       {
