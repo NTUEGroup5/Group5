@@ -2,49 +2,46 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>國立臺北教育大學_學習網</title> 
+<title>毛線編織網</title> 
 </head>
 
 <body>
+<body background="http://www.checkfun.com.tw/shop/Stores_APP/images/images_115/CAT%E6%8A%93%E6%AF%9B%E7%B7%9A%E5%9C%96.jpg">
+
 <div id="HEADER">
-	<h2>電腦科學學習網</h2>
+	<h2><FONT FACE="微軟正黑體">毛線編織家</FONT></h2>
 </div>
 <div id="MAIN_NAV">
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li>   
-		<li><a href="upload.php">檔案上傳</a></li>
-		<li><a href="message.php">留言板</a></li>
-		<li><a href="record.php">歷史紀錄</a></li>
-		<li><a href="login.php">會員資料修改</a	></li>
-		<li><a href="group.php">管理團隊</a></li>
-		<li><b>管理者專區</b></li>
-		<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
+	<a href="reading.php"><FONT FACE="微軟正黑體">針織大學</FONT></a>
+		<a href="upload.php"><FONT FACE="微軟正黑體">毛絨絨分享區</FONT></a>
+		<a href="message.php"><FONT FACE="微軟正黑體">打結了怎麼辦</FONT></a>
+		<a href="record.php"><FONT FACE="微軟正黑體">我的足跡</FONT></a>
+		<a href="login.php"><FONT FACE="微軟正黑體">My Secret 修改</FONT></a>
+		<a href="group.php"><FONT FACE="微軟正黑體">毛絨絨團隊</FONT></a>
+		<b><FONT FACE="微軟正黑體">毛怪的家</FONT></b>
+		<a href="index.php" style="color:#FF99FF"><FONT FACE="微軟正黑體">回首頁頁</FONT></a>
 	</ul>
 </div>
 <div id="CONTENT">
 	<p>
 		<center>
-		<h2>管理者專區<br/></h2>
+		<h2><FONT FACE="微軟正黑體">毛怪的家<br/></h2>
 		<br/>
 		<br/>
 		
 		<form name="form" method="post" action="manager_connect.php"> 
-			<p>
+			<p><FONT FACE="微軟正黑體">
 			帳號：<input type="text" name="id" /> <br>
 			密碼：</h1><input type="password" name="pw" /> <br>
 			</p>
-			<input type="submit" name="button" value="送出" />
+			<input type="submit" name="button" value="送出" /></FONT>
 			<p>
 			</p>
 		</form>
 		<center>
 	</p>
 </div>
-<div id="FOOTER">	
-	<p>
-		<br/><br/><br/><br/><br/><br/>
-		<h2><center><br/>Author by <i>Yi-Chan Kao</i> & <i>Gung-Si Chen</i> </center></h2>
-	</p>
-</div>
+
 </body>
 </html>
