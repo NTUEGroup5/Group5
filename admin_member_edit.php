@@ -94,6 +94,6 @@
 		?>
 		</center>
 	</p>	
-
+</div>
 </body>
 </html>
