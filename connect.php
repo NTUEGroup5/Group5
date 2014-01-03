@@ -41,6 +41,8 @@ $row = mysql_fetch_array(mysql_query($sql));
 		<br/>
 		<br/>
 		
+		//使用者資料輸入
+		
 		<?php
 			if (!$row) { 
 				echo "<h3>帳號或密碼錯誤，請重新輸入</h3>";
