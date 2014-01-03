@@ -23,6 +23,9 @@
 		<a href="index.php" style="color:#FF99FF"><FONT FACE="微軟正黑體">回首頁頁</FONT></a>
 	</ul>
 </div>
+
+//會員登錄
+
 <div id="CONTENT">
 	<p>
 		<center>
