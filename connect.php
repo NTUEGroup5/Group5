@@ -11,30 +11,33 @@ $sql = "SELECT * FROM member where account='$id' and password='$pw'";
 $row = mysql_fetch_array(mysql_query($sql));
 ?>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>國立臺北教育大學_學習網</title>
+<title>毛線編織網</title>
 </head>
 
 <body>
+
+<body background="http://www.checkfun.com.tw/shop/Stores_APP/images/images_115/CAT%E6%8A%93%E6%AF%9B%E7%B7%9A%E5%9C%96.jpg">
+
 <div id="HEADER">
-	<h2>電腦科學學習網</h2>
+	<h2><FONT FACE="微軟正黑體">毛線編織家</FONT><</h2>
 </div>
 <div id="MAIN_NAV">
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li>  
-		<li><a href="upload.php">檔案上傳</a></li>
-		<li><a href="message.php">留言板</a></li>
-		<li><a href="record.php">歷史紀錄</a></li>
-		<li><b>會員資料修改</b></li>
-		<li><a href="group.php">管理團隊</a></li>
-		<li><a href="manager_login.php">管理者專區</a></li>
-		<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
+		<li><a href="reading.php"><FONT FACE="微軟正黑體">針織大學</FONT><</a></li>  
+		<li><a href="upload.php"><FONT FACE="微軟正黑體">毛絨絨分享區</FONT><</a></li>
+		<li><a href="message.php"><FONT FACE="微軟正黑體">打結了怎麼辦</FONT><</a></li>
+		<li><a href="record.php"><FONT FACE="微軟正黑體">我的足跡</FONT><</a></li>
+		<li><b><FONT FACE="微軟正黑體">My Secret 修改</FONT><</b></li>
+		<li><a href="group.php"><FONT FACE="微軟正黑體">毛絨絨團隊</FONT><</a></li>
+		<li><a href="manager_login.php"><FONT FACE="微軟正黑體">毛怪的家</FONT><</a></li>
+		<li><a href="index.php" style="color:#FF99FF"><FONT FACE="微軟正黑體">回首頁頁</FONT><</a></li>
 	</ul>
 </div>
 <div id="CONTENT">
 	<p>
 	
 		<center>
-		<h2>會員資料修改<br/></h2>
+		<h2>My Secret 修改<br/></h2>
 		<br/>
 		<br/>
 		
@@ -70,12 +73,7 @@ $row = mysql_fetch_array(mysql_query($sql));
 		<br/>
 	</p>
 </div>
-<div id="FOOTER">	
-	<p>
-		<br/><br/><br/><br/><br/><br/>
-		<h2><center><br/>Author by <i>Yi-Chan Kao</i> & <i>Gung-Si Chen</i> </center></h2>
-	</p>
-</div>
+
 </body>
 </html>
 
