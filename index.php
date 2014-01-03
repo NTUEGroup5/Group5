@@ -11,7 +11,7 @@
 
 	<h2><FONT FACE="微軟正黑體">毛線編織家</FONT></h2>
 
-<div id="MAIN_NAV" >
+<div id="MAIN_NAV" >   //分頁.網頁超連結
 
 	<ul>
 		<li><a href="reading.php"><FONT FACE="微軟正黑體">針織大學</FONT></a></li>  
