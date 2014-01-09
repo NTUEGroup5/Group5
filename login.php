@@ -2,29 +2,31 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>國立臺北教育大學_學習網</title>
+<title>毛線編織網</title>
 </head>
 
 <body>
 <div id="HEADER">
-	<h2>電腦科學學習網</h2>
+	<h2><FONT FACE="微軟正黑體">毛線編織家學習網</FONT></h2>
 </div>
+
+<body background="http://www.checkfun.com.tw/shop/Stores_APP/images/images_115/CAT%E6%8A%93%E6%AF%9B%E7%B7%9A%E5%9C%96.jpg">
 <div id="MAIN_NAV">
 	<ul>
-		<li><a href="reading.php">開始閱讀</a></li>
-		<li><a href="upload.php">檔案上傳</a></li>
-		<li><a href="message.php">留言板</a></li>
-		<li><a href="record.php">歷史紀錄</a></li>
-		<li><b>會員資料修改</b></li>
-		<li><a href="group.php">管理團隊</a></li>
-		<li><a href="manager_login.php">管理者專區</a></li>
-		<li><a href="index.php" style="color:#FF99FF">回首頁</a></li>
+		<a href="reading.php">針織大學</a>
+		<a href="upload.php">毛絨絨分享區</a>
+		<a href="message.php">打結了怎麼辦</a>
+		<a href="record.php">我的足跡</a>
+		<b>My Secret 修改</b>
+		<a href="group.php">毛絨絨團隊</a>
+		<a href="manager_login.php">毛怪的家</a>
+		<a href="index.php" style="color:#FF99FF">回首頁頁</a>
 	</ul>
 </div>
 <div id="CONTENT">
 	<p>
 		<center>
-		<h2>會員資料修改<br/></h2>
+		<h2>My Secert 修改<br/></h2>
 		<br/>
 		<br/>
 		
@@ -40,11 +42,6 @@
 		<center>
 	</p>
 </div>
-<div id="FOOTER">	
-	<p>
-		<br/><br/><br/><br/><br/><br/>
-		<h2><center><br/>Author by <i>Yi-Chan Kao</i> & <i>Gung-Si Chen</i> </center></h2>
-	</p>
-</div>
+
 </body>
 </html>
