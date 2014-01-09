@@ -11,16 +11,16 @@
 
 	<h2><FONT FACE="微軟正黑體">毛線編織家</FONT></h2>
 
-<div id="MAIN_NAV" >   //分頁.網頁超連結
+<div id="MAIN_NAV" >
 
 	<ul>
-		<li><a href="reading.php"><FONT FACE="微軟正黑體">針織大學</FONT></a></li>  
-		<li><a href="upload.php"><FONT FACE="微軟正黑體">毛絨絨分享區</FONT></a></li>
-		<li><a href="message.php"><FONT FACE="微軟正黑體">打結了怎麼辦</FONT></a></li>
-		<li><a href="record.php"><FONT FACE="微軟正黑體">我的足跡</FONT></a></li>
-		<li><a href="login.php"><FONT FACE="微軟正黑體">My Secret 修改</FONT></a></li>
-		<li><a href="group.php"><FONT FACE="微軟正黑體">毛絨絨團隊</FONT></a></li>
-		<li><a href="manager_login.php"><FONT FACE="微軟正黑體">毛怪的家</FONT></a></li>
+		<a href="reading.php"><FONT FACE="微軟正黑體">針織大學</FONT></a>
+		<a href="upload.php"><FONT FACE="微軟正黑體">毛絨絨分享區</FONT></a>
+		<a href="message.php"><FONT FACE="微軟正黑體">打結了怎麼辦</FONT></a>
+	<a href="record.php"><FONT FACE="微軟正黑體">我的足跡</FONT></a>
+	<a href="login.php"><FONT FACE="微軟正黑體">My Secret 修改</FONT></a>
+	<a href="group.php"><FONT FACE="微軟正黑體">毛絨絨團隊</FONT></a>
+		<a href="manager_login.php"><FONT FACE="微軟正黑體">毛怪的家</FONT></a>
 	</ul>
 </div>
 <div id="CONTENT" >   
