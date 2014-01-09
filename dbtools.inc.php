@@ -1,7 +1,7 @@
 <?php
   function create_connection()
   {
-    $link = mysql_connect("localhost", "root", "NTUE")
+    $link = mysql_connect("localhost", "group5", "gi2")
       or die("無法建立資料連接<br><br>" . mysql_error());
 	  
     mysql_query("SET NAMES utf8");
