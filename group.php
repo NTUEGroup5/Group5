@@ -26,7 +26,7 @@
 <div id="CONTENT" >   
 	<p>
 		<center>
-		<h2><FONT FACE="微軟正黑體">毛絨絨團隊</FONT><br/></h2>  //組員名單&組長   by陳明欣
+		<h2><FONT FACE="微軟正黑體">毛絨絨團隊</FONT><br/></h2>  //組員名單&組長   by陳明欣 good! 回覆by粘齊讌
 		<table>
 		
 			<tr><td> <h4> <FONT FACE="Symbol"><FONT FACE="微軟正黑體">毛王：張博雅</FONT><br/></td></tr>
