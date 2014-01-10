@@ -1,4 +1,3 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -9,9 +8,11 @@
 
 <body>
 <body background="http://www.checkfun.com.tw/shop/Stores_APP/images/images_115/CAT%E6%8A%93%E6%AF%9B%E7%B7%9A%E5%9C%96.jpg">
+//背景圖 by 陳明欣
 <div id="HEADER">
 	<h2><FONT FACE="微軟正黑體">毛線編織家</FONT></h2>
 </div>
+
 <div id="MAIN_NAV">
 	<ul>
 		<a href="reading.php"><FONT FACE="微軟正黑體">針織大學</FONT></a>
