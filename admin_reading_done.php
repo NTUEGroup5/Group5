@@ -16,9 +16,10 @@
 <body>
 
 <body background="http://www.checkfun.com.tw/shop/Stores_APP/images/images_115/CAT%E6%8A%93%E6%AF%9B%E7%B7%9A%E5%9C%96.jpg">
+//背景圖片 110113046 粘齊讌
 
 <div id="HEADER">
-	<h2><FONT FACE="微軟正黑體">毛線編織家</FONT></h2>
+	<h2><FONT FACE="微軟正黑體">毛線編織家</FONT></h2> //標題名稱 by 110113046粘齊讌
 </div>
 <div id="MAIN_NAV">
 	<ul>
